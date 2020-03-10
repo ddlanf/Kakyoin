@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: darkslategray;
+}
+
+iframe{
+    margin: 0;
+    border: none;
+    width: 420px;
+    height: 250px;
+}
+
+.big-div{
+    padding-left: 2%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+div{
+    margin: 0;
+    width: 1280px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    align-items: center;
+}
